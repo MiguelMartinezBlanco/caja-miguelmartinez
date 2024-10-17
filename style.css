@@ -1,0 +1,24 @@
+.Tarjeta{
+    width: 500px;
+    height: 200px;
+    border: solid;
+    text-align: center;
+    margin-left: 700px;
+    background-color: grey;
+    padding: 15px;
+    box-shadow: 0 0 10px red;
+    border-color: red;
+}
+
+.titulo{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(231, 13, 13);
+}
+
+.descripcion{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: unset;
+    color: rgb(255, 255, 255);
+}
